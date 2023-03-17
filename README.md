@@ -32,7 +32,7 @@
    2. Build in Visual Studio 2017/19 with configuration "Your Region"
 
 # Usage
-   1. Compile source or <a href="https://github.com/R3nzTheCodeGOD/R3nzSkin/releases/latest">download</a> compiled version.
+   1. Compile source or <a href="https://github.com/baseu1t/R3nzSkin/releases/latest">download</a> compiled version.
    2. Use `R3nzSkin_Injector` or inject the resulting DLL into the game yourself.
       - *Administrator* privilege may be needed if failed to inject.
       - League client can crash if injected before going into arena.
